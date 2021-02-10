@@ -15,7 +15,7 @@ _The library is **very** early in its development, contributions are very welcom
 The package can be installed with
 
 ```
-pip install git+https://github.com/ThomasHJorgensen/SimulatedMinimumdistance
+pip install git+https://github.com/ThomasHJorgensen/SimulatedMinimumDistance
 ```
 
 # Development
